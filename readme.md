@@ -2,6 +2,8 @@
 ## Author: Grace Choi
 ### Version: 1.0.0
 
+PR Link: https://github.com/gracerosemary/chess-board/pull/1
+
 ## Feature Tasks
 Render an 8x8 chessboard with red and blue queens on them. Identify if queens are under attach based on their coordinates.
 
